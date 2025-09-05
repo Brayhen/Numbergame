@@ -5,3 +5,4 @@ if(a==b):
     print("Вы угадали!)")
 else:
     print("Вы не угадали!(")
+print (b)
